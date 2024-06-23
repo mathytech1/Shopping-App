@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopping-App/static/css/main.fe36a94b.css",
+    "main.js": "/Shopping-App/static/js/main.27cc107e.js",
+    "static/js/787.8f115d99.chunk.js": "/Shopping-App/static/js/787.8f115d99.chunk.js",
+    "index.html": "/Shopping-App/index.html",
+    "main.fe36a94b.css.map": "/Shopping-App/static/css/main.fe36a94b.css.map",
+    "main.27cc107e.js.map": "/Shopping-App/static/js/main.27cc107e.js.map",
+    "787.8f115d99.chunk.js.map": "/Shopping-App/static/js/787.8f115d99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe36a94b.css",
+    "static/js/main.27cc107e.js"
+  ]
+}
